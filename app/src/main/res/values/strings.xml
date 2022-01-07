@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DynamicTable</string>
+    <string name="press_me">Press Me</string>
+    <string name="log_in">Log In!</string>
+    <string name="update_to">Update</string>
+    <string name="Table_data">Table of Data</string>
+    <string name="num_run">Number of Press</string>
+    <string name="rand_num">Random Number</string>
+    <string name="start_num">0</string>
+    <string name="_1">1</string>
+</resources>
