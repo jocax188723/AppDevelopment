@@ -1,0 +1,6 @@
+type Holder @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  completedAt: AWSDateTime!
+  data: [Float]
+}
+ 
